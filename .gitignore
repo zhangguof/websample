@@ -1,0 +1,12 @@
+*.a
+*.o
+*.pyc
+*.log
+*.gz
+*.exe
+*.exp
+*.ilk
+*.dll
+*.xcuserstate
+*.xcuserdatad
+db/sessions
